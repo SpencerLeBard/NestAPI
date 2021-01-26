@@ -20,8 +20,8 @@ export class Product {
 //   price: { type: Number, required: true },
 // });
 
-// //NOTE interface = type description
-//NOTE FOR MONGOOSE/MONGODB
+//NOTE interface = type description
+//NOTE below FOR MONGOOSE/MONGODB
 // export interface Product {
 //   id: string;
 //   title: string;
